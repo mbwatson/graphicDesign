@@ -34,7 +34,7 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 [Outside](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_lp_open_outside.png)
 
-## Sucide Sessions - Tape #2
+### Sucide Sessions - Tape #2
 
 [Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_front.png)
 
