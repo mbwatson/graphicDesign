@@ -48,9 +48,9 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 ## Posters/Flyers
 
-[Street Sharks - Nun w/ a Gun](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_holymountain.jpg)
+[Nun w/ a Gun](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_holymountain.jpg)
 
-[Street Sharks - Back-to-Back Shark Attack](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_sharkattack.jpg)
+[Back-to-Back Shark Attack](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_sharkattack.jpg)
 
-[Whatever Brains - Cliff Burton Poster](https://github.com/mbwatson/graphicDesign/blob/master/flyers/brains_cburton.jpg)
+[Whatever Brains Cliff Burton Poster](https://github.com/mbwatson/graphicDesign/blob/master/flyers/brains_cburton.jpg)
 
