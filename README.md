@@ -28,17 +28,17 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 ### LP
 
-[Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp.png)
+[Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp.jpg)
 
-[Inside](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp_open_inside.png)
+[Inside](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp_open_inside.jpg)
 
-[Outside](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp_open_outside.png)
+[Outside](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp_open_outside.jpg)
 
 ### Tape #2 (Suicide Sessions)
 
 [Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_front.png)
 
-[Back](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_back.png)
+[Full](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_open.png)
 
 ### Demo
 
