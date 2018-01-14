@@ -36,4 +36,4 @@ Playing in bands growing up, we were forced to do musch of our design work ourse
 
 [Street Sharks - Nun w/ a Gun](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_holymountain.jpg)
 [Street Sharks - Back-to-Back Shark Attack](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_sharkattack.jpg)
-[Whatever Brains - Cliff Burton Poster](https://github.com/mbwatson/graphicDesign/blob/master/flyers/brains_cliff.jpg)
+[Whatever Brains - Cliff Burton Poster](https://github.com/mbwatson/graphicDesign/blob/master/flyers/brains_cburton.jpg)
