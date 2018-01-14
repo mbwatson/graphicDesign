@@ -18,11 +18,11 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 [Cover](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup.jpg)
 
-[Back](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_back.jpg)
+[Back](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_back.jpeg)
 
-[Side A](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_a.jpg)
+[Side A](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_a.jpeg)
 
-[Side B](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_b.jpg)
+[Side B](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_b.jpeg)
 
 ## Shards
 
@@ -48,7 +48,7 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 ## Posters/Flyers
 
-[Nun w/ a Gun](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_holymountain.jpg)
+[Nun with a Gun](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_holymountain.jpg)
 
 [Back-to-Back Shark Attack](https://github.com/mbwatson/graphicDesign/blob/master/flyers/streetsharks_sharkattack.jpg)
 
