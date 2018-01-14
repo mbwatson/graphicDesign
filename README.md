@@ -6,17 +6,6 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 ### Whatever Brains
 
-#### Saddle Up 7"
-
-[Cover](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup.jpg)
-
-[Back](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_back.jpg)
-
-[Side A](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_a.jpg)
-
-[Side B](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_b.jpg)
-
-
 #### WB#2
 
 [Cover](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/2%20-%20wb2/brains2.jpg)
@@ -27,6 +16,15 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 [Open Back](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/2%20-%20wb2/brains2_open_back.jpg)
 
+#### Saddle Up 7"
+
+[Cover](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup.jpg)
+
+[Back](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_back.jpg)
+
+[Side A](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_a.jpg)
+
+[Side B](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/1%20-%20saddle_up/brains_saddleup_b.jpg)
 
 ### Shards
 
@@ -38,18 +36,17 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 [Outside](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_lp_open_outside.png)
 
-#### Demo
-
-[Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_demo_front.png)
-
-[Full](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_demo_open.png)
-
 ### Sucide Sessions - Tape #2
 
 [Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_front.png)
 
 [Back](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_back.png)
 
+#### Demo
+
+[Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_demo_front.png)
+
+[Full](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_demo_open.png)
 
 ### Posters/Flyers
 
