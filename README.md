@@ -1,6 +1,6 @@
-# Music-Related Graphic Design
+# Graphic Design
 
-Playing in bands growing up, we were forced to do musch of our design work ourselves. Some of this work now resides in this repository.
+Playing in bands growing up, we were always forced to do much of our design work ourselves. This practice grew into more of a hobby over the years and led to opportunities to design and produce some cool pieces of art. Some of this work resides in this repository.
 
 ## Bands
 
@@ -30,12 +30,19 @@ Playing in bands growing up, we were forced to do musch of our design work ourse
 
 ### Shards
 
+#### LP
+
+[Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_lp.png)
+
+[Inside](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_lp_open_inside.png)
+
+[Outside](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_lp_open_outside.png)
+
 #### Demo
 
 [Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_demo_front.png)
 
 [Full](https://github.com/mbwatson/graphicDesign/blob/master/shards/1%20-%20demo/shards_demo_open.png)
-
 
 ### Sucide Sessions - Tape #2
 
