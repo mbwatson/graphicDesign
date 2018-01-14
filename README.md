@@ -4,7 +4,7 @@ Playing in bands growing up, we were always forced to do much of our design work
 
 ## Whatever Brains
 
-* WB #2
+* **WB #2**
 	
 	The minimalist design of this record's artwork was built around a famous photograph of [Manute Bol](https://en.wikipedia.org/wiki/Manute_Bol). The banner in the image was doctored in Photoshop to display the band's name, while the other artwork was designed in Fireworks.
 
@@ -13,7 +13,7 @@ Playing in bands growing up, we were always forced to do much of our design work
 	* [Open front](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/2%20-%20wb2/brains2_open_front.jpg)
 	* [Open Back](https://github.com/mbwatson/graphicDesign/blob/master/whatever_brains/2%20-%20wb2/brains2_open_back.jpg)
 
-* Saddle Up 7"
+* **Saddle Up 7"**
 
 	This design incorporates an image of [Cliff Burton](https://en.wikipedia.org/wiki/Cliff_Burton). The image clearly was given a newsprint effect, and all other artowkr on this record are hand-drawn.
 	
@@ -33,7 +33,7 @@ Playing in bands growing up, we were always forced to do much of our design work
 	* [Inside](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp_open_inside.jpg)
 	* [Outside](https://github.com/mbwatson/graphicDesign/blob/master/shards/3%20-%20lp/shards_lp_open_outside.jpg)
 
-* Tape #2 (Suicide Sessions)
+* **Tape #2 (Suicide Sessions)**
 
 	This design made use of the famous [photograph of Evelyn McHale](http://time.com/3456028/the-most-beautiful-suicide-a-violent-death-an-immortal-photo/) and photographs of the band members.
 	It was all designed in GIMP.
@@ -41,7 +41,7 @@ Playing in bands growing up, we were always forced to do much of our design work
 	* [Front](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_front.png)
 	* [Full](https://github.com/mbwatson/graphicDesign/blob/master/shards/2%20-%20tape2/shards_tape2_open.png)
 
-* Demo
+* **Demo**
 
 	Completely designed in GIMP, this tape sleeve incorporated a found photograph (on the streets of Philadephia if I recall correctly) and photographs of the band members. use of the famous [photograph of Evelyn McHale](http://time.com/3456028/the-most-beautiful-suicide-a-violent-death-an-immortal-photo/) and photographs of the band members.
 
